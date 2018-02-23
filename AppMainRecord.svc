@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="LW_LMSIntegration.Service.ServiceImplementations.AppMainRecord" %>

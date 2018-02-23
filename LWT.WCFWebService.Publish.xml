@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\LMS-TMS\Build\107.32 wcf" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="tools.cs" publishTime="01/26/2015 15:17:22" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll" publishTime="01/26/2015 15:14:14" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="01/26/2015 15:17:22" />
+    <file relUrl="bin/WCFWebService.pdb" publishTime="02/10/2015 12:04:25" />
+    <file relUrl="bin/LW_LMSIntegration.pdb" publishTime="01/27/2015 12:49:50" />
+    <file relUrl="Web.Release.config" publishTime="01/26/2015 15:17:22" />
+    <file relUrl="Common.cs" publishTime="01/26/2015 15:17:21" />
+    <file relUrl="bin/WCFWebService.dll" publishTime="02/10/2015 12:04:26" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Data.xml" publishTime="01/26/2015 15:14:14" />
+    <file relUrl="CustomerPortalService.svc.cs" publishTime="01/26/2015 15:17:22" />
+    <file relUrl="bin/Telerik.Web.UI.dll" publishTime="01/26/2015 15:15:23" />
+    <file relUrl="OriginatorPortalWebservice.asmx.cs" publishTime="01/26/2015 15:17:22" />
+    <file relUrl="bin/LWTLoanServ.pdb" publishTime="02/10/2015 12:04:25" />
+    <file relUrl="bin/LWT.Common.dll" publishTime="01/27/2015 12:49:49" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="01/26/2015 15:14:39" />
+    <file relUrl="ServiceInterface/ICustomerPortalService.cs" publishTime="01/26/2015 15:17:22" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll" publishTime="01/26/2015 15:14:17" />
+    <file relUrl="OriginatorPortalWebservice.asmx" publishTime="01/26/2015 15:17:22" />
+    <file relUrl="bin/Microsoft.Practices.ObjectBuilder.xml" publishTime="01/26/2015 15:14:18" />
+    <file relUrl="bin/PdfMetamorphosis.dll" publishTime="01/26/2015 15:14:13" />
+    <file relUrl="bin/WebService.dll" publishTime="01/27/2015 12:49:50" />
+    <file relUrl="Biz/GenerateStatementBiz.cs" publishTime="01/26/2015 15:17:22" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.xml" publishTime="01/26/2015 15:14:13" />
+    <file relUrl="LWT.WCFWebService.csproj" publishTime="01/26/2015 15:17:22" />
+    <file relUrl="DAL/AccountStatementDAL.cs" publishTime="01/26/2015 15:17:22" />
+    <file relUrl="bin/WebService.pdb" publishTime="01/27/2015 12:49:50" />
+    <file relUrl="CustomerPortalService.svc" publishTime="01/26/2015 15:17:22" />
+    <file relUrl="build.environment" publishTime="01/26/2015 15:17:21" />
+    <file relUrl="bin/LWT.Common.pdb" publishTime="01/27/2015 12:49:49" />
+    <file relUrl="DAL/FacilityDAL.cs" publishTime="01/26/2015 15:17:22" />
+    <file relUrl="bin/LWTLoanServ.dll" publishTime="02/10/2015 12:04:25" />
+    <file relUrl="CommonConstants.cs" publishTime="01/26/2015 15:17:21" />
+    <file relUrl="Web.Debug.config" publishTime="01/26/2015 15:17:22" />
+    <file relUrl="bin/Microsoft.Practices.ObjectBuilder.dll" publishTime="01/26/2015 15:14:19" />
+    <file relUrl="bin/LW_LMSIntegration.dll" publishTime="01/27/2015 12:49:50" />
+    <file relUrl="Web.config" publishTime="02/10/2015 12:04:26" />
+  </publishProfile>
+</publishData>
